@@ -23,9 +23,9 @@
 ---
 
 ## 🛠 기술 스택
-- **백엔드:** Java(Spring Boot) 또는 Python(FastAPI)
+- **백엔드:** Python(FastAPI)
 - **프론트엔드:** Streamlit, React, Django 중 선정 예정
-- **데이터베이스:** PostgreSQL 또는 MySQL
+- **데이터베이스:** PostgreSQL
 - **감정 분석 모델:** KoBERT
 
 ---

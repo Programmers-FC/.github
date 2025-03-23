@@ -13,7 +13,7 @@
 - **Deploy & Infra**: Docker, GitHub, GitHub Actions
 - **프론트엔드:** Streamlit, React, Django 중 선정 예정 -> Streamlit 선정
 - **데이터 웨어하우스:** Redshift
-- **감정 분석 모델:** KoBERT
+- **감정 분석 모델:** KoBERT -> SparkML
 
 ## 📆개발 기간
 - 2025. 02. 18 - 2025. 02. 19 (5주)

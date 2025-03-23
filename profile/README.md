@@ -8,6 +8,12 @@
 ## 👥 팀 구성
 <img width="756" alt="image" src="https://github.com/user-attachments/assets/968cf58b-424b-424d-adf6-acf8119310ca" />
 
+## 🛠 기술 스택
+- **데이터 엔지니어링:** Airflow, Spark
+- **Deploy & Infra**: Docker, GitHub, GitHub Actions
+- **프론트엔드:** Streamlit, React, Django 중 선정 예정 -> Streamlit 선정
+- **데이터 웨어하우스:** Redshift
+- **감정 분석 모델:** KoBERT
 
 ## 🚩 프로젝트 진행 계획 (총 4주)
 | 단계 | 주요 작업 | 기간 |
@@ -17,8 +23,10 @@
 | 3단계 | 대시보드 개발 및 웹사이트 구현 | 3주 |
 | 4단계 | 테스트, 디버깅 및 최종 발표 준비 | 4주 |
 
-실제 진행 과정
+### 실제 진행 과정
+
 <img width="774" alt="image" src="https://github.com/user-attachments/assets/3c2add23-0163-496d-a425-ad5b243cada2" />
+
 ![image (4)](https://github.com/user-attachments/assets/2be3eecf-bb28-45c4-92e9-0abadf8dbc86)
 
 ## ⚙️ 주요 기능
@@ -37,11 +45,7 @@
 
 ---
 
-## 🛠 기술 스택
-- **백엔드:** Python(FastAPI)
-- **프론트엔드:** Streamlit, React, Django 중 선정 예정 -> Streamlit 선정
-- **데이터 웨어하우스:** Redshift
-- **감정 분석 모델:** KoBERT
+
 
 ---
 
@@ -52,12 +56,10 @@
 
 ### 크롤링 데이터
 - [인벤 FIFA 온라인 4 선수 리뷰](https://fifaonline4.inven.co.kr/dataninfo/player/?code=216001088)
+- [Top 10,000랭커 유저 크롤링](https://fconline.nexon.com/datacenter/rank)
 
 ---
 
-
-
----
 
 ## 🔥 확장 가능성
 - 리그 오브 레전드(LOL), NBA 2K, FIFA 시리즈 등의 다른 게임 데이터를 활용한 분석으로 주제 확장 가능

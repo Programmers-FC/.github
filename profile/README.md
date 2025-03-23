@@ -49,7 +49,9 @@
 ### 시연 영상
 #### 0~30초
 ![30초까지](https://github.com/user-attachments/assets/9d24657f-34d9-4360-a8b2-71d0114208fc)
-#### 나머지
+
+
+#### 나머지 30초 42초
 ![나머지 42초](https://github.com/user-attachments/assets/359726d6-b3a8-46aa-abf3-f3f9786a68dd)
 
 ---

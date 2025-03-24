@@ -33,7 +33,7 @@
 
 <img width="774" alt="image" src="https://github.com/user-attachments/assets/3c2add23-0163-496d-a425-ad5b243cada2" />
 
-![image (4)](https://github.com/user-attachments/assets/2be3eecf-bb28-45c4-92e9-0abadf8dbc86)
+![image (2)](https://github.com/user-attachments/assets/f37c8b8c-ecf2-4c50-b4e3-a9af622b088f)
 
 ## ⚙️ 주요 기능
 

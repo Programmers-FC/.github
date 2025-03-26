@@ -1,7 +1,9 @@
 # 🎮 Programmers FC - 게임 데이터 분석 대시보드
 
 ## 우수 프로젝트 !
-![image](https://github.com/user-attachments/assets/54f5b68b-a98c-4e36-add9-3f49579f1281)
+
+[우수 프로젝트 - Programmers FC.pdf](https://github.com/user-attachments/files/19460196/-.Programmers.FC.pdf)
+
 
 ## 📌 프로젝트 개요
 

@@ -2,7 +2,6 @@
 
 ## 우수 프로젝트 !
 
-![image (3)](https://github.com/user-attachments/assets/d2ac5758-7e0e-4d47-9f63-af90d4aca548)
 <img width="756" alt="image" src="https://github.com/user-attachments/assets/d2ac5758-7e0e-4d47-9f63-af90d4aca548" />
 
 ## 📌 프로젝트 개요

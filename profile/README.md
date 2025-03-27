@@ -2,7 +2,8 @@
 
 ## 우수 프로젝트 !
 
-<img width="463" alt="스크린샷 2025-03-27 오후 9 09 52" src="https://github.com/user-attachments/assets/301fd3dd-7b45-4c82-8f06-df2ed698be81" />
+<img width="756" alt="image" src="https://github.com/user-attachments/assets/956822ca-ce9b-40fd-8357-9a2e93634b64" />
+
 
 
 ## 📌 프로젝트 개요

@@ -3,7 +3,7 @@
 ## 우수 프로젝트 !
 
 <img width="756" alt="image" src="https://github.com/user-attachments/assets/956822ca-ce9b-40fd-8357-9a2e93634b64" />
-
+<https://github.com/user-attachments/files/23147655/-.Programmers.FC.2.pdf>
 
 
 ## 📌 프로젝트 개요
